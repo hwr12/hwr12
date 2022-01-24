@@ -1,5 +1,6 @@
 
-<a href="https://play.google.com/store/apps/details?id=com.edta.bitpremium" target="_blank"><img src="https://img.shields.io/badge/비트프리미엄 앱-80cee1?style=flat&logo=Acclaim&logoColor=FFFFFF"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.edta.bitpremium" target="_blank"><img src="https://img.shields.io/badge/비트프리미엄 앱-80cee1?style=flat&logo=Bitcoin Cash&logoColor=FFFFFF"/></a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwr12&show_icons=true&theme=vue)
 <!--
