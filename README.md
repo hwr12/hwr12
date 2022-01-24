@@ -1,5 +1,5 @@
 
-<a href="비트프리미엄" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat&logo=Acclaim&logoColor=FFFFFF"/></a>
+<a href="비트프리미엄" target="_blank"><img src="https://img.shields.io/badge/현우쓰?style=flat&logo=Acclaim&logoColor=FFFFFF"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwr12&show_icons=true&theme=radical)
 <!--
