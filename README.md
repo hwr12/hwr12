@@ -1,5 +1,7 @@
-### Hi there 👋
 
+<a href="비트프리미엄" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat&logo=Acclaim&logoColor=FFFFFF"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwr12&show_icons=true&theme=radical)
 <!--
 **hwr12/hwr12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
