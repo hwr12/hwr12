@@ -1,6 +1,8 @@
 
 <a href="https://play.google.com/store/apps/details?id=com.edta.bitpremium" target="_blank"><img src="https://img.shields.io/badge/BitPremium-80cee1?style=flat&logo=Bitcoin Cash&logoColor=FFFFFF"/></a>
 
+<a href="https://velog.io/@hwr12" target="_blank"><img src="https://img.shields.io/badge/Velog-80cee1?style=flat&logo=V&logoColor=FFFFFF"/></a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwr12&show_icons=true&theme=vue)
 <!--
