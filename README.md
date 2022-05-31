@@ -3,6 +3,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwr12&show_icons=true&theme=vue)
+
+[![Codemagic build status](https://api.codemagic.io/apps/622fc810c7f7cf7e48c4e5cb/622fc810c7f7cf7e48c4e5ca/status_badge.svg)](https://codemagic.io/apps/622fc810c7f7cf7e48c4e5cb/622fc810c7f7cf7e48c4e5ca/latest_build)
 <!--
 **hwr12/hwr12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
