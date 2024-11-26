@@ -51,9 +51,5 @@
   <a href="app.gala.games" target="_blank">
     <img src="https://img.shields.io/badge/GalaNODE-Running-orange"/>
   </a>
-  <a href="mailto:ruehyeon12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
   <a href="https://velog.io/@hwr12" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-  <a href="https://play.google.com/store/apps/details?id=com.edta.bitpremium" target="_blank"><img src="https://img.shields.io/badge/BitPremium-f2a900?style=flat&logo=Bitcoin Cash&logoColor=FFFFFF"/></a>  <a href="https://velog.io/@hwr12" target="_blank">
 </p>
