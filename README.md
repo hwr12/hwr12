@@ -53,3 +53,10 @@
   </a>
   <a href="https://velog.io/@hwr12" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
+
+<h3 align='center'>🔧 Contributed</h3>
+
+<p align='center'>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Flutter%20form%20builder-blue?style=flat&link=https%3A%2F%2Fgithub.com%2Fflutter-form-builder-ecosystem%2Fflutter_form_builder">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Supabase-green?style=flat&link=https%3A%2F%2Fgithub.com%2Fsupabase%2Fsupabase">
+</p>
