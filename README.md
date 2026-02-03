@@ -1,14 +1,6 @@
 </a> [![Codemagic build status](https://api.codemagic.io/apps/622fc810c7f7cf7e48c4e5cb/622fc810c7f7cf7e48c4e5ca/status_badge.svg)](https://codemagic.io/apps/622fc810c7f7cf7e48c4e5cb/622fc810c7f7cf7e48c4e5ca/latest_build)
 
 
-
-<h3 align='center'>Hi there 👋</h3>
-<p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=hwr12&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-  </a>
-</p>
-
 <h3 align='center'>🔨 Stack 🔧</h3>
 
 <p align='center'>
